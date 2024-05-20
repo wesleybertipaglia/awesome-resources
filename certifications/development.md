@@ -41,7 +41,7 @@ Get certified in development with these online certifications.
 
 - ~~[C++ Intermediate - Hacker Rank](#)~~ - Free [Not Available]
 
-- ~~[C++ Advanced - Hacker Rank](#) - Free [Not Available]
+- ~~[C++ Advanced - Hacker Rank](#)~~ - Free [Not Available]
 
 
 - [C# Basic - Hacker Rank](https://www.hackerrank.com/skills-verification/c_sharp_basic) - Free
