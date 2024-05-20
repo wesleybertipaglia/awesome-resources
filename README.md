@@ -33,29 +33,29 @@ And then, you can start studying the topics available in the [topics](/topics) f
 
 The following learning resources are available in this repository:
 
-- [Universities](/learn/universities.md)
-- [Organizations](/learn/organizations.md)
-- [Companies](/learn/companies.md)
-- [Courses Platforms](/learn/courses-platforms.md)
-- [Tutorials Platforms](/learn/tutorials-platforms.md)
-- [Blogs and Forums](/learn/blogs-and-forums.md)
+- [Universities](/learn/hubs/universities.md)
+- [Organizations](/learn/hubs/organizations.md)
+- [Companies](/learn/hubs/companies.md)
+- [Courses Platforms](/learn/hubs/courses-platforms.md)
+- [Tutorials Platforms](/learn/hubs/tutorials-platforms.md)
+- [Blogs and Forums](/learn/hubs/blogs-and-forums.md)
 
 ## 📖 Topics
 
 The following topics are available in this repository:
 
-- [Foundations](/topics/foundations)
-- [Software Engineering](/topics/software-engineering)
-- [Development](/topics/development)
-- [Computing](/topics/computing)
-- [Artificial Intelligence and Machine Learning](/topics/ai-ml)
-- [Security](/topics/security)
-- [Computer Vision and Graphics](/topics/cv-graphics)
-- [Robotics](/topics/robotics)
-- [Blockchain](/topics/blockchain)
-- [Others](/topics/others)
+- [Foundations](/learn/topics/foundations)
+- [Software Engineering](/learn/topics/software-engineering)
+- [Development](/learn/topics/development)
+- [Computing](/learn/topics/computing)
+- [Artificial Intelligence and Machine Learning](/learn/topics/ai-ml)
+- [Security](/learn/topics/security)
+- [Computer Vision and Graphics](/learn/topics/cv-graphics)
+- [Robotics](/learn/topics/robotics)
+- [Blockchain](/learn/topics/blockchain)
+- [Others](/learn/topics/others)
 
-> To know more about the topics, check the [Topics](/topics/README.md) file.
+> To know more about the topics, check the [Topics](/learn/topics/README.md) file.
 
 ## 🧪 Test
 
