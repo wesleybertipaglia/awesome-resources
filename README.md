@@ -70,6 +70,11 @@ The following topics are available in this repository:
 - [Development](/certifications/development.md)
 - [Network](/certifications/network.md)
 - [Security](/certifications/security.md)
+- [Data Science](/certifications/data-science.md)
+- [Artificial Intelligence and Machine Learning](/certifications/ai-ml.md)
+- [Blockchain](/certifications/blockchain.md)
+- [Languages](/certifications/languages.md)
+- [Others](/certifications/others.md)
 
 ## 🌐 Internships and Jobs
 
