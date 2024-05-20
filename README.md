@@ -13,6 +13,8 @@ This repository serves as a curated collection of learning resources covering a 
 - [Getting Started](#-getting-started)
 - [Learning Hubs](#-learning-hubs)
 - [Topics](#-topics)
+- [Test](#-test)
+- [Certifications](#-certifications)
 - [Checklist](#-checklist)
 - [License](#-license)
 
@@ -55,6 +57,20 @@ The following topics are available in this repository:
 - [Others](/topics/others)
 
 > To know more about the topics, check the [Topics](/topics/README.md) file.
+
+## 🧪 Test
+
+- [Algorithms and Data Strucutres (DSA)](/tests/dsa.md)
+- [Development](/tests/development.md)
+- [Network](/tests/network.md)
+- [Security](/tests/security.md)
+
+## 🔰 Certifications
+
+- [Algorithms and Data Strucutres (DSA)](/certifications/dsa.md)
+- [Development](/certifications/development.md)
+- [Network](/certifications/network.md)
+- [Security](/certifications/security.md)
 
 ## ☑️ Cheklist
 
