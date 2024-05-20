@@ -1,3 +1,22 @@
 # Algorithms and Data Strucutres (DSA)
 
 Test your knowledge of algorithms and data structures with these online tests.
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/explore)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeChef](https://www.codechef.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Codewars](https://www.codewars.com/)
+- [Exercism](https://exercism.io/)
+- [Codeforces](https://codeforces.com/)
+- [AtCoder](https://atcoder.jp/)
+- [TopCoder](https://www.topcoder.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [SPOJ](https://www.spoj.com/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [CodeFights](https://codefights.com/)
+- [Sphere Online Judge (SPOJ)](https://www.spoj.com/)
+- [UVa Online Judge](https://uva.onlinejudge.org/)
+- [PKU JudgeOnline](http://poj.org/)
+- [Timus Online Judge](http://acm.timus.ru/)
